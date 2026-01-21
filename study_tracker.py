@@ -1,4 +1,5 @@
 # Smart Study Companion
+# Author : Ishita Sajeev
 
 from datetime import datetime
 
@@ -102,4 +103,5 @@ while True:
 
     else:
         print("Invalid choice. Try again.")
+
 
