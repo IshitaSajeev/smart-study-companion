@@ -33,10 +33,10 @@ Smart Study Companion is a lightweight, Python-based **Command Line Interface (C
 
 Clone the repository and navigate into the project directory:
 
-```bash
+
 git clone https://github.com/IshitaSajeev/smart-study-companion.git
 cd smart-study-companion
-'''
+
 ---
 
 ##Quick Start
