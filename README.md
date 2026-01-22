@@ -36,10 +36,9 @@ Smart Study Companion is a lightweight, Python-based **Command Line Interface (C
    git clone [https://github.com/IshitaSajeev/smart-study-companion.git](https://github.com/IshitaSajeev/smart-study-companion.git)
    cd smart-study-companion
 
-Run the application:
-
-```bash
-[python study_tracker.py]
+2. **Run the application:**
+   ```bash
+   python study_tracker.py
 
 Available Options:
 
