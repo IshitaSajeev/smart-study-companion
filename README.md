@@ -39,7 +39,7 @@ Smart Study Companion is a lightweight, Python-based **Command Line Interface (C
 Run the application:
 
 ```bash
-python study_tracker.py
+[python study_tracker.py]
 
 Available Options:
 
