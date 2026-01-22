@@ -4,7 +4,7 @@ Smart Study Companion is a lightweight, Python-based **Command Line Interface (C
 
 ---
 
-## 🚀 Features
+## Features
 
 - **Study Session Tracking**  
   Log study sessions with subject names and durations.
@@ -23,20 +23,20 @@ Smart Study Companion is a lightweight, Python-based **Command Line Interface (C
 
 ---
 
-## 🛠 Requirements
+## Requirements
 
 - Python 3.x
 
 ---
 
-## 📥 Installation
+## Installation
 
 Clone the repository and navigate into the project directory:
 
 ```bash
 git clone https://github.com/IshitaSajeev/smart-study-companion.git
 cd smart-study-companion
-
+'''
 ---
 
 ##Quick Start
