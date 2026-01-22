@@ -1,35 +1,76 @@
-# 📚 Smart Study Companion
+# 📘 Smart Study Companion (SSC)
 
-Smart Study Companion is a Python-based Command Line Interface (CLI) application that helps students track daily study sessions, analyze subject-wise study time, and automatically identify weak subjects.
-
-The application records study data, summarizes learning patterns, and helps improve study efficiency using simple analytics.
+Smart Study Companion is a lightweight, Python-based **Command Line Interface (CLI)** application designed to help students track study sessions, analyze subject-wise effort, and identify weak areas using simple data-driven insights.
 
 ---
 
-## Prerequisites
+## 🚀 Features
 
-Before running the program, ensure you have the following installed:
+- **Study Session Tracking**  
+  Log study sessions with subject names and durations.
+
+- **Automatic Analytics**  
+  Identifies the weakest subject based on total time spent.
+
+- **Persistent Storage**  
+  All data is stored locally in a flat file (`data.txt`) for easy access and portability.
+
+- **Subject-wise Summary**  
+  View total study time broken down by subject.
+
+- **Interactive CLI**  
+  Simple, menu-driven interface for fast input and retrieval.
+
+---
+
+## 🛠 Requirements
 
 - Python 3.x
 
 ---
 
-## Features
-- Add study sessions with subject and duration
-- View all recorded study sessions
-- Get subject-wise study summary
-- Automatically identifies the weakest subject based on total time spent
-- Simple and interactive command-line interface
-- Persistent data storage using file handling
+## 📥 Installation
+
+Clone the repository and navigate into the project directory:
+
+```bash
+git clone https://github.com/IshitaSajeev/smart-study-companion.git
+cd smart-study-companion
+
+---
+
+##Quick Start
+
+Run the application:
+python study_tracker.py
+
+Available Options:
+
+- Add a Session – Enter subject name and study duration
+- View Summary – Display total hours spent per subject
+- Weak Subject Analysis – Identify the subject with least total study time
 
 ---
 
 ## How It Works
-The program allows users to enter study sessions with subject name and duration.
-All study data is stored persistently in a text file (data.txt).
-The application reads stored data and calculates total time spent per subject.
-The subject with the least total study time is identified as the weakest subject.
-All interactions are handled through a simple CLI menu.
+
+1. Users enter study sessions with subject names and durations.
+2. Data is stored persistently in data.txt.
+3. The application reads stored data and calculates:
+- Total study time per subject
+- The weakest subject based on minimum time spent
+4. All interactions are handled through a simple CLI menu.
+
+---
+
+## Project Structure
+
+smart-study-companion/
+│
+├── study_tracker.py
+├── data.txt
+├── README.md
+└── .gitignore 
 
 ---
 
@@ -41,12 +82,8 @@ All interactions are handled through a simple CLI menu.
 
 ---
 
-## Project Structure
-
-smart-study-companion/
-│
-├── study_tracker.py
-├── data.txt
-├── README.md
-└── .gitignore  
+📄 License
+This project is licensed under the MIT License.
+See the LICENSE file for details.
+ 
 
