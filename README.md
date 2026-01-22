@@ -59,15 +59,14 @@ Available Options:
 
 ---
 
-## **Project Structure**
+## 📂 Project Structure
 
 ```text
 smart-study-companion/
-│
-├── study_tracker.py  
-├── data.txt           
-├── README.md           documentation
-└── .gitignore         
+├── study_tracker.py   # Main application logic
+├── data.txt           # Persistent storage for study logs
+├── README.md          # Project documentation
+└── .gitignore         # Files to be ignored by Git     
 
 ---
 
