@@ -59,7 +59,7 @@ Available Options:
 
 ---
 
-## Project Structure
+## **Project Structure**
 
 ```text
 smart-study-companion/
