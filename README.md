@@ -29,7 +29,7 @@ Smart Study Companion is a lightweight, Python-based **Command Line Interface (C
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 1. **Clone the repo:**
    ```bash
